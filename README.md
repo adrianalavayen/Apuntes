@@ -33,4 +33,3 @@
 ##### las ramas en Git representan líneas separadas de desarrollo dentro de un repositorio. En un File Explorer, se pueden ver como diferentes carpetas que contienen versiones separadas del proyecto. Cambiar entre ramas en un File Explorer te permite cambiar el contexto de trabajo para reflejar la versión del código en esa rama específica, facilitando el trabajo en diferentes partes del proyecto de forma aislada y colaborativa.
 ## <h1 style="color: #B2EBF2;">CLASE 3</h1>
 ### <p style="color: lightgreen;">COMANDOS</p>
-## <h1 style="color: #B2EBF2;
